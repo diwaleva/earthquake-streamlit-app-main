@@ -1,2 +1,6 @@
-# earthquake-streamlit-app-main
- Map of earthquakes in the last 24 hrs.
+# earthquake-app
+Map the locations of earthquakes over the past 24 hours
+
+Video Tutorial: https://youtu.be/JL9xOs-G1hI
+
+'Github repo: https://github.com/deepcharts/earthquake-app
